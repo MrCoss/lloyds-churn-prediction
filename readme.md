@@ -5,10 +5,11 @@
 **Author:** Costas Pinto, Data Science Team
 
 ---
-![alt text](plots/confusion_matrix_phase2.png) 
-![alt text](plots/feature_importance_phase2.png) 
-![alt text](plots/prediction_histogram_phase2.png) 
-![alt text](plots/roc_curve_phase2.png)
+<img width="640" height="480" alt="confusion_matrix_phase2" src="https://github.com/user-attachments/assets/beda3222-d187-41e6-854e-12bc3dbeda3d" />
+<img width="1000" height="600" alt="feature_importance_phase2" src="https://github.com/user-attachments/assets/3d071817-6d8f-4bc2-a483-b99bcecfb17e" />
+<img width="800" height="500" alt="prediction_histogram_phase2" src="https://github.com/user-attachments/assets/fe44c786-f731-4b0b-b53f-892d4ffc9d6a" />
+<img width="640" height="480" alt="roc_curve_phase2" src="https://github.com/user-attachments/assets/864c1778-5d5e-44c1-a241-13c8a08bf043" />
+
 
 ## 1. Project Overview
 
